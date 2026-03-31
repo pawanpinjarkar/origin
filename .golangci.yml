@@ -5,4 +5,5 @@ linters:
   presets: []
   fast: true
 run:
+  go: "1.25"
   timeout: 5m

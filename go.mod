@@ -1,6 +1,6 @@
 module github.com/openshift/origin
 
-go 1.24.6
+go 1.25.0
 
 require (
 	cloud.google.com/go/storage v1.56.0
